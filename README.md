@@ -3,11 +3,9 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Hi there, I'm Patrick 👋
-### I'm a Information Technology Student,Developer, and Photographer!!
+### I'm a Software Engineer!!
 
 - 💡  I like to explore new technologies and to learn new stuff.
-- 🎓  I’m currently studying Information Technology.
-- 🥅 2021 Goals: Contribute more to Open Source projects and expand my Skillset
 - ⚡ Fun fact: I am also a Photographer and Video Editor
 
 ### Languages and Tools:
